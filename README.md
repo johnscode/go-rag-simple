@@ -1,4 +1,4 @@
-# go rag server
+# Simple RAG server in Go
 A simple Claude 3.5 LLM RAG server using golang, chi, and langchaingo
 
 This is based on the langchaingo example server given in the [Go github repo](https://github.com/golang/example/tree/master/ragserver/ragserver-langchaingo)
